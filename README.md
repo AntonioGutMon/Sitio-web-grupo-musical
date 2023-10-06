@@ -1,2 +1,2 @@
 # Sitio-web-grupo-musical
-Proyecto Página Grupo Musical
+Proyecto Página Grupo Musical Kana-Boom
